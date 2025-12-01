@@ -1,0 +1,36 @@
+# ──────────────────────────────
+# ARCHIVOS GENERADOS POR PYTHON
+# ──────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpetas de virtual environments
+venv/
+env/
+.venv/
+
+# Archivos de configuración locales
+*.env
+.env.*
+
+# Archivos temporales
+*.log
+*.tmp
+
+# ──────────────────────────────
+# CONFIGURACIONES DEL SISTEMA
+# ──────────────────────────────
+.DS_Store        # macOS
+Thumbs.db        # Windows
+
+# ──────────────────────────────
+# CONFIG VS CODE
+# ──────────────────────────────
+.vscode/
+
+# ──────────────────────────────
+# OTROS
+# ──────────────────────────────
+*.bak
